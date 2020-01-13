@@ -5,4 +5,4 @@ The project includes ready-made game objects, and feature classes that can be (r
 
 To build this project you need Qt, which you can get here: https://www.qt.io/
 
-The ClankyGameEngine project was tested on Windows 10 (version 1903) using Qt 5.12.5.
+The ClankyGameEngine project was tested on Windows 10 using Qt 5.12.5.
